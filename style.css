@@ -66,7 +66,7 @@ input:focus{
  
 }
 
-input[type="submit"] {
+button {
   background-color: #E60084;
   color: #FFF;
   border: none;
@@ -75,6 +75,7 @@ input[type="submit"] {
   cursor: pointer;
   width: 100px;
   align-items: center;
+
 
 }
   

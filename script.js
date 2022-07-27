@@ -6,6 +6,8 @@ emailvalidate (input)
 
   if(!re.test(email)); {
     this.printMessage(input, errorMessage);
-  }
+    }
 
-  
+  function myFunction() {
+    alert("Cadastro realizado com sucesso!")
+  }
