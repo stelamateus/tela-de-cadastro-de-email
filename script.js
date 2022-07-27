@@ -8,7 +8,4 @@ emailvalidate (input)
     this.printMessage(input, errorMessage);
   }
 
-  function mensagem(params) {
-    alert('Cadastro realizado com sucesso!')
-    
-  }
+  
